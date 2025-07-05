@@ -98,7 +98,7 @@ A comprehensive MERN stack web application with separate portals for HR and Empl
    cd backend
    npm run dev
    ```
-   The backend will run on `http://localhost:5000`
+   The backend will run on `https://hrbackend-k2x7.onrender.com`
 
 2. **Start the frontend development server**
    ```bash
